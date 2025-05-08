@@ -1,0 +1,21 @@
+.required-label {
+    background-color: #001b5e;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    margin-right: 8px;
+}
+.error-message {
+    color: red;
+    font-size: 0.9rem;
+}
+.gray-box {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+body {
+    background: white;
+}
